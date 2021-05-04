@@ -1,0 +1,6 @@
+package com.kayan.mshroob
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
